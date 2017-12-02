@@ -1,4 +1,4 @@
-django==1.11.7
+django==1.11.8
 django-discover-runner==1.0
 pylint==1.7.4
 coverage==4.4.2
