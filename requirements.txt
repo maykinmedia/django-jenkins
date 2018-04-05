@@ -1,6 +1,6 @@
 django==2.0.4
 django-discover-runner==1.0
-pylint==1.8.3
+pylint==1.8.4
 coverage==4.5.1
 pyflakes==1.6.0
 pep8==1.7.1
